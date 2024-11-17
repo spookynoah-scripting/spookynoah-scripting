@@ -7,8 +7,6 @@ Web Developer - Python Scripter
 I'm SpookyNoah, an website developer, python scripter and developer and I also do some other languages such as Node.js. I'm the owner of informatieoverderuimte.nl, an dutch website about news about space. I am also an roblox lua scripter and also an roblox developer which means that I can make games/develop games for people.
 
 * 🌍  I'm based in the Netherlands.
-* ✉️  You can contact me at [error@informatieoverderuimte.nl](mailto:error@informatieoverderuimte.nl)
-* 🚀  I'm currently working on [my website](http://informatieoverderuimte.nl)
 * ⚡  I'm an Roblox Lua Scripter/Developer, I make games on the Roblox Platform and I'm experienced with Python and some other languages.
 
 <a href="https://www.github.com/spookynoah-scripting" target="_blank" rel="noreferrer"><img
