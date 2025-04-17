@@ -1,4 +1,4 @@
-Hi 👋 My name is SpookyNoah
+Hi 👋 My name is Finnxyz
 ===========================
 
 Web Developer - Python Scripter
